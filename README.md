@@ -28,7 +28,7 @@ This project analyzes sales, profitability, customers, products, and delivery ti
 ## Files in this repository
 
 - `SuperStoreProyect.xlsx`: source analysis workbook.
-- `SUPERSOTREPBI.pbix`: Power BI dashboard.
+- `SUPERSTOREPBI.pbix`: Power BI dashboard.
 - `Superstore-NBC.png`: preview image of the project.
 
 ## Recommended repository structure
