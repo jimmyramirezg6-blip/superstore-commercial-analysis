@@ -38,7 +38,6 @@ superstore-project/
 |-- README.md
 |-- SuperStoreProyect.xlsx
 |-- SUPERSOTREPBI.pbix
-|-- Sample - Superstore.csv
 |-- Superstore-NBC.png
 ```
 
