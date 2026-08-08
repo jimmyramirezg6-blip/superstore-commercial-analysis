@@ -44,7 +44,7 @@ superstore-project/
 ## How to use
 
 1. View the dashboard online
-   🔗 [Ver en Power BI Service](https://app.powerbi.com/groups/me/reports/27899933-07a0-4fd4-857e-846faf584b40?ctid=250f76e7-6105-42e3-82d0-be7c460aea59&pbi_source=linkShare)
+   🔗 [Ver en Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMTQyNThkYjMtY2Q3ZS00OWE1LWE5ODYtNzIwZWJkODQxYWNkIiwidCI6IjI1MGY3NmU3LTYxMDUtNDJlMy04MmQwLWJlN2M0NjBhZWE1OSIsImMiOjR9)
 3. Review the Excel workbook if you want to inspect the source calculations.
 4. Use the screenshot as a cover image for the repository.
 
